@@ -11,6 +11,11 @@
 # production
 /build
 
+
+/.idea
+/npm-debug.log
+
+
 # misc
 .DS_Store
 .env.local
