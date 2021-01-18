@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the source code for my personal website, nicknorcross.com. It is built with React.js, react-bootstrap, and emailjs-com.
 
 ## Available Scripts
 
