@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/nweb/static/css/main.3a590584.chunk.css",
-    "main.js": "/nweb/static/js/main.bec718b7.chunk.js",
-    "main.js.map": "/nweb/static/js/main.bec718b7.chunk.js.map",
-    "runtime-main.js": "/nweb/static/js/runtime-main.3e57fbc5.js",
-    "runtime-main.js.map": "/nweb/static/js/runtime-main.3e57fbc5.js.map",
-    "static/css/2.dc3c9708.chunk.css": "/nweb/static/css/2.dc3c9708.chunk.css",
-    "static/js/2.b868abb9.chunk.js": "/nweb/static/js/2.b868abb9.chunk.js",
-    "static/js/2.b868abb9.chunk.js.map": "/nweb/static/js/2.b868abb9.chunk.js.map",
-    "index.html": "/nweb/index.html",
-    "static/css/2.dc3c9708.chunk.css.map": "/nweb/static/css/2.dc3c9708.chunk.css.map",
-    "static/css/main.3a590584.chunk.css.map": "/nweb/static/css/main.3a590584.chunk.css.map",
-    "static/js/2.b868abb9.chunk.js.LICENSE.txt": "/nweb/static/js/2.b868abb9.chunk.js.LICENSE.txt",
-    "static/media/Navbar.css": "/nweb/static/media/InputSerif-Regular-Edu.77701a76.woff2",
-    "static/media/contact.e55ae0ae.png": "/nweb/static/media/contact.e55ae0ae.png",
-    "static/media/inspiration.a5f0485a.png": "/nweb/static/media/inspiration.a5f0485a.png",
-    "static/media/nn-headshot.d73643b0.jpeg": "/nweb/static/media/nn-headshot.d73643b0.jpeg"
+    "main.css": "/static/css/main.477ed58e.chunk.css",
+    "main.js": "/static/js/main.bec718b7.chunk.js",
+    "main.js.map": "/static/js/main.bec718b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.51f7e466.js",
+    "runtime-main.js.map": "/static/js/runtime-main.51f7e466.js.map",
+    "static/css/2.dc3c9708.chunk.css": "/static/css/2.dc3c9708.chunk.css",
+    "static/js/2.b868abb9.chunk.js": "/static/js/2.b868abb9.chunk.js",
+    "static/js/2.b868abb9.chunk.js.map": "/static/js/2.b868abb9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.dc3c9708.chunk.css.map": "/static/css/2.dc3c9708.chunk.css.map",
+    "static/css/main.477ed58e.chunk.css.map": "/static/css/main.477ed58e.chunk.css.map",
+    "static/js/2.b868abb9.chunk.js.LICENSE.txt": "/static/js/2.b868abb9.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/static/media/InputSerif-Regular-Edu.77701a76.woff2",
+    "static/media/contact.e55ae0ae.png": "/static/media/contact.e55ae0ae.png",
+    "static/media/inspiration.a5f0485a.png": "/static/media/inspiration.a5f0485a.png",
+    "static/media/nn-headshot.d73643b0.jpeg": "/static/media/nn-headshot.d73643b0.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e57fbc5.js",
+    "static/js/runtime-main.51f7e466.js",
     "static/css/2.dc3c9708.chunk.css",
     "static/js/2.b868abb9.chunk.js",
-    "static/css/main.3a590584.chunk.css",
+    "static/css/main.477ed58e.chunk.css",
     "static/js/main.bec718b7.chunk.js"
   ]
 }
