@@ -1,4 +1,4 @@
-# nweb
+# nicknorcross.com
 
 A web application deployed on GitHub Pages at: [nicknorcross.com](https://nicknorcross.com). This is my personal website and is a single page application (SPA) built with ReactJS.
 
