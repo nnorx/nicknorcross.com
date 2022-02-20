@@ -6,10 +6,9 @@ export const aboutObjOne = {
   topLine: '',
   headline: 'About The Author',
   description1:
-    'I\'m a fullstack developer living in Lowell, Massachusetts. I work with a stack of Python, React, and container technologies.',
+    'Mostly I am interested in technology and how it changes the world. My favorite technologies are Python and JavaScript, as I find they are great building blocks for web applications.',
   description2:
-    'I\'m passionate about automation, learning new technologies, and increasing my productivity. \n In my spare time I enjoy learning \
-    music production, hiking, gaming, and staying fit.',
+    'Blockchain and automation are two technological trends I\'m particularly excited about. And analysing problems through the lens of an entrepreneur is how I like to think. I also enjoy music production, hiking, and skiing!',
   buttonLabel: '',
   imgStart: 'start',
   img: headshot,

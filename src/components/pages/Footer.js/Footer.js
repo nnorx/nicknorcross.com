@@ -11,7 +11,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='social-media'>
         <div className='social-media-wrap'>
-          <small className='website-rights'>Nick Norcross © 2021</small>
+          <small className='website-rights'>Nick Norcross © 2022</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link'

@@ -8,6 +8,7 @@ import Contact from './components/pages/Contact/Contact';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/pages/Footer.js/Footer';
+import Projects from './components/pages/Projects/Projects';
 
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route path='/' exact component={Home} />
-        {/*<Route path='/blog' component={Blog} />*/}
+        <Route path='/projects' component={Projects} />
         <Route path='/about' component={About} />
         <Route path='/contact' component={Contact} />
       </Switch>

@@ -10,6 +10,8 @@ function HeroSection({
   lightTextDesc,
   headline,
   description,
+  description2,
+  description3,
   buttonLabel,
   img,
   alt,
@@ -42,6 +44,10 @@ function HeroSection({
                   }
                 >
                   {description}
+                  <br></br><br></br>
+                  {description2}
+                  <br></br>
+                  {description3}
                 </p>
                 <div className="buttonwrapper">
                   <Link to='/contact'>
